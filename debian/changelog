@@ -1,0 +1,5 @@
+vendors-sfyaml (1.2-1) balabit-os-6.0; urgency=low
+
+  * Initial release.
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Thu, 11 Jan 2018 16:07:12 +0100

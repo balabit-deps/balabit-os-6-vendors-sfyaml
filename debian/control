@@ -1,0 +1,12 @@
+Source: vendors-sfyaml
+Maintainer: balazs.benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.2-1
+Homepage: https://github.com/fabpot-graveyard/yaml
+
+Package: vendors-sfyaml
+Architecture: all
+Description: Symfony YAML is a PHP library that parses YAML strings and converts them to PHP arrays.
+             It can also converts PHP arrays to YAML strings. Its official website is at http://components.symfony-project.org/yaml/.
