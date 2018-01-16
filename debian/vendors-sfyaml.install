@@ -1,1 +1,1 @@
-*.php /opt/ssb/lib/vendors/sfYaml/
+*.php /usr/share/php/sfYaml/

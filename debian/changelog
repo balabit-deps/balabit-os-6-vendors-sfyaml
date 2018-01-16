@@ -1,3 +1,9 @@
+vendors-sfyaml (1.2-2) balabit-os-6.0; urgency=low
+
+  * Changed install directory to /usr/share/php/
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Tue, 16 Jan 2018 16:12:56 +0100
+
 vendors-sfyaml (1.2-1) balabit-os-6.0; urgency=low
 
   * Initial release.
